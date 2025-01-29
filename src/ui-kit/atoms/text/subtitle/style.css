@@ -1,0 +1,15 @@
+.cb-subtitle {
+  color: var(--cb-primary-fg, #000);
+}
+
+.cb-subtitle--xs {
+  font-size: var(--subtitle-xs);
+}
+
+.cb-subtitle--md {
+  font-size: var(--subitile-md);
+}
+
+.cb-subtitle--lg {
+  font-size: var(--subtitle-lg);
+}
